@@ -1,4 +1,15 @@
 <!--
+Hey, thanks for using the awesome-readme-template template.
+If you have any enhancements, then fork this project and create a pull request
+or just open an issue with the label "enhancement".
+
+Don't forget to give this project a star for additional support ;)
+Maybe you can mention me or this repo in the acknowledgements too
+-->
+<div align="center">
+
+  <img src="https://i.postimg.cc/0QMSTWpL/IMG-0051.png" alt="logo" width="200" height="auto" />
+  <h1>M.A.T.S.Y.A</h1>
   
   <p>
     Monitoring Antimicrobial Treatment and Surveillance for Yield and Adherence
